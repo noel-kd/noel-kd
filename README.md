@@ -2,7 +2,7 @@
 ### I'm a husband, an amateur developer, and an aspiring IT security professional
 
 - 🔭 I’m currently working on a series of security tools
-- 🎓 I'm currently studying for a BS in IT at Granite State
+- 🎓 I'm currently finishing up my BS in IT at Granite State
 - 📖 I'm currently studying for my Security+
 - ⭐ I’m currently learning intermediate-advanced C++
 - 🌠 I'm looking forward to learning intermediate Python
