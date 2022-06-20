@@ -11,7 +11,9 @@
 - 😃 Pronouns: He/Him
 - 🔐 Fun fact: I'm a novice locksporter
 
-<br />
+### Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kylenoel/)
+
+
 
 ### Languages and Tools
 
@@ -24,4 +26,9 @@
 <br />
 <br />
 
-### Feel free to reach out @ [LinkedIn/KyleNoel](https://www.linkedin.com/in/kylenoel/)
+### GitHub Stats
+
+<img align="left" alt="Stats" src= "https://github-readme-stats.vercel.app/api?username=noel-kd&show_icons=true&hide=prs,contribs&theme=tokyonight" />
+<img align="left" alt="Languages" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=noel-kd&hide=cmake&theme=tokyonight" />
+
+<br />
