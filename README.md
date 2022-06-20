@@ -14,11 +14,14 @@
 <br />
 
 ### Languages and Tools
-<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /> 
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<img align="left" alt="C++" width="36px" src="https://user-images.githubusercontent.com/107530049/174661167-768e33c4-2ea5-460c-84d9-4498d27b45eb.svg" /> 
+<img align="left" alt="C#" width="36px" src="https://user-images.githubusercontent.com/107530049/174661722-8eadc960-4709-48f7-a966-72fb5754e9d0.png" /> 
+<img align="left" alt="Python" width="36px" src="https://user-images.githubusercontent.com/107530049/174661888-ebf3a6ea-cb30-459d-951c-98bd0f42e5e6.png" />
+<img align="left" alt="VS19,22" width="36px" src="https://user-images.githubusercontent.com/107530049/174660588-516cebf4-b091-4b29-955b-6668ba610761.png" /> 
+<img align="left" alt="VSCode" width="36px" src="https://user-images.githubusercontent.com/107530049/174661975-dcdbc732-394e-435a-9701-4f928fb43e96.png" /> 
+<img align="left" alt="GitHub" width="36px" src="https://user-images.githubusercontent.com/107530049/174662365-a616d357-f351-4be8-811d-7c0cae7bcd09.png" />
+<br />
 <br />
 
 ### Feel free to reach out @ [LinkedIn/KyleNoel](https://www.linkedin.com/in/kylenoel/)
