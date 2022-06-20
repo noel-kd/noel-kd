@@ -5,7 +5,7 @@
 - 🎓 I'm currently finishing up my BS in IT at Granite State
 - 📖 I'm currently studying for my Security+
 - ⭐ I’m currently learning intermediate-advanced C++
-- 🌠 I'm familiar with entry-level Python and looking forward to learning more
+- 🌠 I'm looking forward to increasing my knowledge in Python
 - 🔎 I’m looking for any and all tips and constructive criticism!
 - 💬 Ask me about my projects, my studies, my dogs, anything!
 - 😄 Pronouns: He/Him
