@@ -28,6 +28,6 @@
 ### GitHub Stats
 
 <img align="left" alt="Stats" src= "https://github-readme-stats.vercel.app/api?username=noel-kd&show_icons=true&hide=prs,contribs&theme=tokyonight" />
-<img align="left" alt="Languages" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=noel-kd&hide=cmake&theme=tokyonight" />
+<img align="left" alt="Languages" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=noel-kd&hide=cmake&theme=tokyonight&layout=compact&exclude_repo=SimplePortScanner_v1" />
 
 <br />
