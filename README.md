@@ -10,7 +10,7 @@
 - 😃 Pronouns: He/Him
 - 🔐 Fun fact: I'm a novice locksporter
 
-### Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kylenoel/)
+### Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kylenoel/) or visit my blog, [Learning IT Security](https://noelit.net/)
 
 
 
