@@ -1,5 +1,5 @@
 ## PS > Write-Host "Hi there! I'm Kyle!"
-### I'm a husband, an amateur developer, and an aspiring IT security professional
+### I'm a husband, a sysadmin, and an amateur developer
 
 - ✏️ I’m working on a series of security tools
 - 🎓 I have a Bachelors in Information Technology
