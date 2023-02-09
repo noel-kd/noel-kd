@@ -1,4 +1,4 @@
-## PS >Write-Host "Hi there! I'm Kyle!"
+## PS > Write-Host "Hi there! I'm Kyle!"
 ### I'm a husband, an amateur developer, and an aspiring IT security professional
 
 - ✏️ I’m working on a series of security tools
