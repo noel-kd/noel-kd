@@ -17,7 +17,7 @@
 ### Languages and Tools
 
 <img align="left" alt="Python" width="36px" src="https://user-images.githubusercontent.com/107530049/174661888-ebf3a6ea-cb30-459d-951c-98bd0f42e5e6.png" />
-<img align="left" alt="PowerShell" width="36px" src="https://user-images.githubusercontent.com/107530049/217958503-d7ca79bf-39ae-4220-aa45-505f658cdd8a.png" />
+<img align="left" alt="PowerShell" width="36px" src="https://user-images.githubusercontent.com/107530049/217968496-24ab0bed-42ee-43be-b084-6dcd266f58cc.png" />
 <img align="left" alt="C++" width="36px" src="https://user-images.githubusercontent.com/107530049/174661167-768e33c4-2ea5-460c-84d9-4498d27b45eb.svg" /> 
 <img align="left" alt="C#" width="36px" src="https://user-images.githubusercontent.com/107530049/174661722-8eadc960-4709-48f7-a966-72fb5754e9d0.png" /> 
 <img align="left" alt="VS19,22" width="36px" src="https://user-images.githubusercontent.com/107530049/174660588-516cebf4-b091-4b29-955b-6668ba610761.png" /> 
