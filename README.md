@@ -1,12 +1,12 @@
 ## PS > Write-Host "Hi there! I'm Kyle!"
 ### I'm a husband, a sysadmin, and an amateur developer
 
-- ✏️ I’m working on a series of security tools
+- ✏️ I’m currently working on PowerShell scripts to aid me in my sysadmin role
 - 🎓 I have a Bachelors in Information Technology
-- 📖 I recently passed my CompTIA Security+ Exam
-- 📚 I’m teaching myself intermediate-advanced PowerShell
-- 🔎 I’m looking for any and all tips and constructive criticism!
-- 💬 Ask me about my projects, my studies, my dogs, anything!
+- 📖 I recently participated in a live incident response exercise
+- 📚 I’m working on refreshing my Python skills
+- 🔎 I’m looking for any and all tips and constructive criticism
+- 💬 Ask me about my projects, my studies, anything
 - 😃 Pronouns: He/Him
 - 🔐 Fun fact: I'm a novice locksporter
 
